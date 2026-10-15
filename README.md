@@ -1,6 +1,8 @@
 # Align (v1.4.0 Beta)
 > **Hybrid AI & LOOT Load Order Optimizer and Mod Manager Organizer**
-
+<p align="center">
+  <img src="align_icon.png" width="128" height="128" alt="Align Logo">
+</p>
 Align is a standalone desktop application and Mod Organizer 2 plugin designed to automatically organize both the **Left Panel (resource overwrite order / separators)** and the **Right Panel (plugin load order)** for Skyrim SE/VR, Fallout 4, and Starfield.
 
 ---
