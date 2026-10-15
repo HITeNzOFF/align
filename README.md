@@ -28,6 +28,10 @@ Align is a standalone desktop application and Mod Organizer 2 plugin designed to
 
 ---
 
+## Credits & Acknowledgements
+**LOOT Team:** Masterlist rules and sorting heuristics are powered by the official [LOOT masterlists](https://github.com/loot).
+
+---
 ## 📜 License
 
 This project is licensed under the [GNU General Public License v3.0](LICENSE).
